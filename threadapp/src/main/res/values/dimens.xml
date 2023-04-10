@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="twelve">12dp</dimen>
+    <dimen name="thirty_two">32dp</dimen>
+    <dimen name="four">4dp</dimen>
+</resources>
